@@ -66,7 +66,7 @@
 
 Advocate helps businesses get found by AI. As search shifts from Google results to AI assistants like ChatGPT, Claude, Perplexity, and Gemini, most businesses are invisible to them. Advocate gives each business its own live connection point that serves accurate, structured business information directly to AI systems when customers ask, hours, services, pricing, and more, and routes the resulting leads back to the business. We work with businesses of all kinds, local service providers like plumbers, HVAC contractors, electricians, and dentists, as well as e-commerce and online businesses, who want to show up when customers ask AI for recommendations, not just when they search Google.
 
-**Areas:** AI · Business · Directory · Local · Services
+**Areas:** Artificial Intelligence · Business · Directory · Local · Services
 
 ## Advocate on APIs.io
 
@@ -80,24 +80,30 @@ Everything profiled for Advocate is published on APIs.io rather than in this rep
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [advocatemcp-com-mcp.yml](https://apis.io/servers/advocatemcp-com/advocatemcp-com-mcp-yml/)
+
 #### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Advocatemcp Com Authentication](https://apis.io/security/advocatemcp-com/advocatemcp-com-authentication/)
-- [Advocatemcp Com Domain Security](https://apis.io/security/advocatemcp-com/advocatemcp-com-domain-security/)
+- [Advocate Authentication](https://apis.io/security/advocatemcp-com/advocatemcp-com-authentication/)
+- [Advocate Domain Security](https://apis.io/security/advocatemcp-com/advocatemcp-com-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Advocatemcp Com Scopes](https://apis.io/scopes/advocatemcp-com/advocatemcp-com-scopes/)
+- [Advocate Scopes](https://apis.io/scopes/advocatemcp-com/advocatemcp-com-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Advocatemcp Com Plans Pricing](https://apis.io/plans/advocatemcp-com/advocatemcp-com-plans-pricing/)
+- [Advocate Plans Pricing](https://apis.io/plans/advocatemcp-com/advocatemcp-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -114,18 +120,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 28.5** — thin · rubric 0.26.0 · scored 2026-10-31
+**Kin Score 29.0** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 56.7 |
+| Discoverability | 63.3 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 35.7 |
-| Access clarity | 73.2 |
+| Access clarity | 76.6 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 3.4** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -151,8 +157,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 16.4** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/advocatemcp-com/](https://apis.io/providers/advocatemcp-com/).
 
